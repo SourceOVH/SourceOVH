@@ -1,16 +1,33 @@
-### Hi there 👋
+<div style="text-align: center;">
 
-<!--
-**SourceOVH/SourceOVH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, I'm SourceOVH 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+I am beginner Java Developer. Started 12/10/2022.
+Now I'm coding simple apps and bots.
+Interesting in backend development, high-functions bots,
+algorithms and minecraft plugins.
+
+<span> 
+    <img src="https://komarev.com/ghpvc/?username=SourceOVH&style=for-the-badge" alt=""/> 
+</span>
+
+### TOOLS
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,bots,git"  alt=""/><br>
+  </a>
+
+### STATS
+
+![SourceOVH GitHub Stats](https://github-readme-stats.vercel.app/api?username=SourceOVH&show_icons=true&theme=gruvbox)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SourceOVH&layout=compact&theme=gruvbox&show_icons=true)
+
+### LINKS
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sourceovh@gmail.com)
+</div>
